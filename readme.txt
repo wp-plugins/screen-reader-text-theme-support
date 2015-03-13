@@ -1,4 +1,4 @@
-=== screen-reader-text theme support ===
+=== ".screen-reader-text" theme support ===
 Contributors: jmslbam, rianrietveld
 Tags: #accessibility, #css
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jmslbam%40gmail%2ecom&lc=US&item_name=jmslbam&item_number=screenreader¤cy_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
