@@ -1,12 +1,13 @@
 === ".screen-reader-text" theme support ===
 Contributors: jmslbam, rianrietveld
-Tags: #accessibility, #css
+Tags: accessibility, css, a11y, wcag
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jmslbam%40gmail%2ecom&lc=US&item_name=jmslbam&item_number=screenreader¤cy_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tested up to: 4.1
-Stable tag: trunk
+Requires at least: 3.3
+Tested up to: 4.2
+Stable tag: 0.1.0
 License: GPLv3
 
-A plugin to support the upcomming ".screen-reader-text" CSS class. This adds support for those themes that don't support yet!
+A plugin to support the ".screen-reader-text" CSS class. This adds support for those themes that don't support yet!
 
 == Installation ==
 = Automatic installation =
@@ -24,5 +25,5 @@ The manual installation method involves downloading the plugin and uploading it 
 * Activate the plugin from the Plugins menu within the WordPress admin.
 
 == Changelog ==
-= v0.1.0 =
+= 0.1.0 =
 * Enqueue main CSS file with class ".screen-reader-text"
